@@ -1,0 +1,7 @@
+
+osquid:S1871-"LThis branch's code block is the same as the block for the branch on line 41.(”þƒÅøÿÿÿÿ8ß²à¾í-
+osquid:S1871+"LThis branch's code block is the same as the block for the branch on line 41.(‡¥¤õøÿÿÿÿ8ŽÅÞ¾í-
+Psquid:S1481"-Remove this unused "solution" local variable.(ØõÛöøÿÿÿÿ8£² ¾í-
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Úý¢è8Šˆ¥¾í-
+]squid:S1118":Add a private constructor to hide the implicit public one.(·ŠˆÖüÿÿÿÿ8†ÞË¾í-
+_squid:S1854"<Remove this useless assignment to local variable "solution".(ØõÛöøÿÿÿÿ8£² ¾í-

@@ -1,0 +1,6 @@
+
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¤ÓºÏû-
+]squid:S1118":Add a private constructor to hide the implicit public one.(Íù²†ùÿÿÿÿ8ŽÅ»Ïû-
+Hsquid:S1612",Replace this lambda with a method reference.(š÷É–ùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(š÷É–ùÿÿÿÿ

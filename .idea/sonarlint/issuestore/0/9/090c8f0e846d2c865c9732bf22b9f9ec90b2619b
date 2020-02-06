@@ -1,0 +1,29 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ö«Ëüè-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş–ÂÉüÿÿÿÿ8Êî£úè-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉË±œøÿÿÿÿ8û„«üè-
+[squid:S11977"8Move the array designator from the variable to the type.(’üÇ½ıÿÿÿÿ8òëûè-
+usquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥•ŠÅûÿÿÿÿ8òëûè-
+Bsquid:S1659K"Declare "j" on a separate line.(á”æåşÿÿÿÿ8òëûè-
+usquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÎ‘¿üÿÿÿÿ8òëûè-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8×¤°üè-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¡±üè-
+[squid:S1197="8Move the array designator from the variable to the type.(¥•ŠÅûÿÿÿÿ8òëûè-
+usquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÀÊ€şÿÿÿÿ8òëûè-
+[squid:S1197>"8Move the array designator from the variable to the type.(ğÎ‘¿üÿÿÿÿ8òëûè-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¹é8°”»úè-
+]squid:S1118":Add a private constructor to hide the implicit public one.(”™Í’úÿÿÿÿ8Ÿ½ïûè-
+[squid:S1197;"8Move the array designator from the variable to the type.(ÔÀÊ€şÿÿÿÿ8òëûè-
+usquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©•ùØùÿÿÿÿ8òëûè-
+[squid:S1197,"8Move the array designator from the variable to the type.(¹Æëáüÿÿÿÿ8òëûè-
+[squid:S1197<"8Move the array designator from the variable to the type.(©•ùØùÿÿÿÿ8òëûè-
+[squid:S11977"8Move the array designator from the variable to the type.(’üÇ½ıÿÿÿÿ8òëûè-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş–ÂÉüÿÿÿÿ8Êî£úè-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹á¹Ö8ø¿¬üè-
+[squid:S1197,"8Move the array designator from the variable to the type.(¹Æëáüÿÿÿÿ8òëûè-

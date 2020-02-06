@@ -1,0 +1,6 @@
+
+Ksquid:S1481"-Remove this unused "solution" local variable.(©…ñ§8º¹™óê-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÓœõùÿÿÿÿ8â·Êàë-
+Zsquid:S1854"<Remove this useless assignment to local variable "solution".(©…ñ§8º¹™óê-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÕÀ”¤8’”âÁë-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ Ïáøÿÿÿÿ8Ôÿ¢Çë-

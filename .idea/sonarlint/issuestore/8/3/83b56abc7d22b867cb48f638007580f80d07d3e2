@@ -1,0 +1,6 @@
+
+_squid:S1854
+"<Remove this useless assignment to local variable "solution".(õ®±şûÿÿÿÿ8ÌÚ“âé-
+Psquid:S1481
+"-Remove this unused "solution" local variable.(õ®±şûÿÿÿÿ8ÌÚ“âé-
+Wsquid:S1118":Add a private constructor to hide the implicit public one.(ØŒö8ÌÚ“âé-

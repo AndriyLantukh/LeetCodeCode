@@ -1,0 +1,23 @@
+
+Psquid:S1481"-Remove this unused "solution" local variable.(öÅ†äùÿÿÿÿ8¡…‰÷é-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ˆý™ñ8ÅŒˆóê-
+^squid:S18546"@Remove this useless assignment to local variable "asteriskPart".(¤ÙÀÀ8ÅŒˆóê-
+Zsquid:S1854I"<Remove this useless assignment to local variable "testChar".(‡€œà8Æ›†¤ê-
+bsquid:S1854S"?Remove this useless assignment to local variable "prevPatChar".(ÄÊø–ÿÿÿÿÿ8â³÷øé-
+]squid:S1854`"?Remove this useless assignment to local variable "prevPatChar".(Ó‘†ü8Çéðøé-
+jsquid:S1871d"LThis branch's code block is the same as the block for the branch on line 95.(šƒÑ‹8™ªüøé-
+Ksquid:S1481I"-Remove this unused "testChar" local variable.(‡€œà8Æ›†¤ê-
+]squid:S1854e"?Remove this useless assignment to local variable "prevPatChar".(Ó‘†ü8™ªüøé-
+Psquid:S1481"-Remove this unused "patChars" local variable.(ô³Ï’ÿÿÿÿÿ8º£Ö£ê-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÄâœÂ8»¸Ú£ê-
+Xsquid:S1118	":Add a private constructor to hide the implicit public one.(Ê¢8Õ©‰÷é-
+Msquid:S00108i")Either remove or fill this block of code.(ÁŸ¥Ýýÿÿÿÿ8­´þøé-
+_squid:S1854"<Remove this useless assignment to local variable "solution".(öÅ†äùÿÿÿÿ8¡…‰÷é-
+Msquid:S00108=")Either remove or fill this block of code.(ëŸûëýÿÿÿÿ8ÅŒˆóê-
+{
+squid:S135Z"YReduce the total number of break and continue statements in this loop to use at most one.(Ÿþêîúÿÿÿÿ8™ªüøé-
+Ssquid:S1481S"0Remove this unused "prevPatChar" local variable.(ÄÊø–ÿÿÿÿÿ8Àšïøé-
+Hsquid:S00108k")Either remove or fill this block of code.(å¥ž‡8Öûþøé-
+Osquid:S14816"1Remove this unused "asteriskPart" local variable.(¤ÙÀÀ8ÅŒˆóê-
+n squid:LabelsShouldNotBeUsedCheckV";Refactor the code to remove this label and the need for it.(ÿì™Á8Ÿ¿Éøé-
+_squid:S1854"<Remove this useless assignment to local variable "patChars".(ô³Ï’ÿÿÿÿÿ8º£Ö£ê-
